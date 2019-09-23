@@ -1,10 +1,10 @@
 # Nord-Blink
 
-> [Nore color theme](https://www.nordtheme.com) for [Blink Shell](http://www.blink.sh)
+> [Nord color theme](https://www.nordtheme.com) for [Blink Shell](http://www.blink.sh)
 
 ## Screenshots
 
-![ayu-Light](./img/Nord.png)
+![Nord](./img/Nord.png)
 
 ## How to install
 

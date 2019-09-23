@@ -1,0 +1,41 @@
+BLACK = "#3B4251";
+RED = "#BF6069";
+GREEN = "#A3BE8B";
+YELLOW = "#EACB8A";
+BLUE = "#81A1C1";
+MAGENTA = "#B48DAC";
+CYAN = "#88C0D0";
+WHITE = "#E5E9F0";
+BRIGHT_BLACK = "#4C556A";
+BRIGHT_RED = "#BF6069";
+BRIGHT_GREEN = "#A3BE8B";
+BRIGHT_YELLOW = "#EACB8A";
+BRIGHT_BLUE = "#81A1C1";
+BRIGHT_MAGENTA = "#B48DAC";
+BRIGHT_CYAN = "#8FBCBB";
+BRIGHT_WHITE = "#ECEEF4";
+FOREGROUND = "#D8DEE8";
+BACKGROUND = "#2E3340";
+CURSOR = "rgba(216,222,232,1.0)";
+
+t.prefs_.set("color-palette-overrides", [
+  BLACK,
+  RED,
+  GREEN,
+  YELLOW,
+  BLUE,
+  MAGENTA,
+  CYAN,
+  WHITE,
+  BRIGHT_BLACK,
+  BRIGHT_RED,
+  BRIGHT_GREEN,
+  BRIGHT_YELLOW,
+  BRIGHT_BLUE,
+  BRIGHT_MAGENTA,
+  BRIGHT_CYAN,
+  BRIGHT_WHITE,
+]);
+t.prefs_.set("foreground-color", FOREGROUND);
+t.prefs_.set("background-color", BACKGROUND);
+t.prefs_.set("cursor-color", CURSOR);
